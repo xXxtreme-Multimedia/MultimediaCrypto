@@ -7,8 +7,8 @@ Web server, forum, database, block explorer, coin info, crypto, vulnerability te
    
    The mining pool will be set up to mine a private pool. The private, base market coin. Only by invite can anyone mine on the private pool. Merge mined coins may be included. Other coins may or may not be added.
      
-    The exchange will have a selection of coins at the beginning. Coins are listed by request of a developer or team member. A vetting process will occur. Vetting includes checking for hooks, master wallets, hidden processes, irc seeding, and other poor practices. 
+  The exchange will have a selection of coins at the beginning. Coins are listed by request of a developer or team member. A vetting process will occur. Vetting includes checking for hooks, master wallets, hidden processes, irc seeding, and other poor practices. 
     
-    Source code posted here must include any original copyright information and licensing. Comments and bookmarks should be found within original code/changes. Please give credit to original authors. 
+  Source code posted here must include any original copyright information and licensing. Comments and bookmarks should be found within original code/changes. Please give credit to original authors. 
     
     
